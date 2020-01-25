@@ -1,0 +1,7 @@
+﻿  ConsoleApplication2.cpp
+g:\cp3\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(25): warning C4305: 'initializing': truncation from 'double' to 'float'
+g:\cp3\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+g:\cp3\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+g:\cp3\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+g:\cp3\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(58): warning C4305: 'initializing': truncation from 'double' to 'float'
+  ConsoleApplication2.vcxproj -> G:\CP3\Projects\ConsoleApplication2\Debug\ConsoleApplication2.exe

@@ -1,0 +1,16 @@
+﻿Build started 1/16/2019 11:02:47 AM.
+     1>Project "D:\CP3\Projects\Electric\Electric\Electric.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\Electric.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Electric.cpp
+         Electric.cpp
+     1>d:\cp3\projects\electric\electric\electric.cpp(26): warning C4305: 'initializing': truncation from 'double' to 'float'
+     1>d:\cp3\projects\electric\electric\electric.cpp(44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>d:\cp3\projects\electric\electric\electric.cpp(45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>d:\cp3\projects\electric\electric\electric.cpp(51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>d:\cp3\projects\electric\electric\electric.cpp(61): warning C4305: 'initializing': truncation from 'double' to 'float'
+     1>d:\cp3\projects\electric\electric\electric.cpp(83): error C2065: 'ans': undeclared identifier
+     1>Done Building Project "D:\CP3\Projects\Electric\Electric\Electric.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:12.96
